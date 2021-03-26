@@ -1,2 +1,2 @@
 # europe
-This repository is the POM of https: // www.worldsys.org/europe/
+This repository is POM for https://www.worldsys.org/europe/
